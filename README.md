@@ -4,7 +4,7 @@ Sou estudante de **Ciências da Computação** na **Cesar School**, apaixonado p
 
 ## Habilidades
 - **Linguagens:** Python, HTML, CSS
-- **Ferramentas:** Word, Arduino
+- **Ferramentas:** Word, Arduino, Google docs
 - **Idiomas:** Inglês intermediário
 
 ## Experiência
