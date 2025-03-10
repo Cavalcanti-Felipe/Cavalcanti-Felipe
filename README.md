@@ -3,7 +3,7 @@
 Sou estudante de **Ciências da Computação** na **Cesar School**, apaixonado por tecnologia e inovação. Busco constante aprendizado e desenvolvimento profissional, aplicando conhecimentos técnicos e interpessoais.
 
 ## Habilidades
-- **Linguagens:** Python, HTML, CSS, JavaScript
+- **Linguagens:** Python, HTML, CSS
 - **Ferramentas:** Word, Arduino
 - **Idiomas:** Inglês intermediário
 
